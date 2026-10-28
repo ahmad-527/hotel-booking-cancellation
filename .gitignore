@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+hotel_bookings.csv
+*.part
+reports/*.executed.ipynb
+reports/*.checkpoint.ipynb

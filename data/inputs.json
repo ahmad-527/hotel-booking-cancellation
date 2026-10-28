@@ -1,0 +1,15 @@
+{
+  "files": [
+    {
+      "path": "hotel_bookings.csv",
+      "url": "https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2020/2020-02-11/hotels.csv",
+      "bytes": 16855599,
+      "sha256": "7c2ae42a7353905ea136e5c2287f17c92c5435826598bfbb8491c6f0c7b1fc06"
+    }
+  ],
+  "archive": {
+    "path": "data/hotel_input_snapshot.zip",
+    "bytes": 1269907,
+    "sha256": "8570435514f70a3dcaf2e0c8424dc447e9bb7c7312ac9c2559995f38b52d2d64"
+  }
+}
